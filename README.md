@@ -56,7 +56,6 @@
 
 - [Discord](https://discord.gg/WYr9ZgJzpx)
 
-
 # 📷 Screenshots
 
 <div align="center">
@@ -147,7 +146,7 @@ To help others understand the app, please visit [knighthat/Kreate-docs](https://
 
 ## If you are good at designing
 
->[!TIP]
+>[!Note]
 > **UI/UX designers are welcome!**  
 > Submit your design ideas by [opening a ticket](https://github.com/knighthat/Kreate/issues/new?template=feature_request.yaml)
 

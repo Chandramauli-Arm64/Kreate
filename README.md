@@ -34,11 +34,7 @@
 - Download songs or entire playlists for offline playback (not cache)
 - Background playback
 - Listening statistics
-- Audio visualizer on player with many type of effects.
-
-> [!NOTE]
-> THIS FEATURE REQUIRES MIC PERMISSION, ONLY AVAILABLE IF ACTIVATED FROM SETTINGS. Full list of permissions (available soon)
-
+- **Audio visualizer on player with many type of effects**.
 - News, mood, musical genres, new albums from favourite artists
 - Import/Export online, RiMusic playlists, can be shared with friends
 - Fetch, display, edit, translate synchronized, or not, songs lyrics
@@ -53,6 +49,8 @@
 - Weekly update
 - Plays music even with no internet connection
 
+> [!NOTE]
+> The feature **Audio visualizer on player with many type of effects** requries mic permission, only available if activated from settings. Full list of permissions (available soon).
 
 # Social media
 
@@ -132,11 +130,8 @@
 
 ### To improve functionalities
 
- > [!NOTE]
- > Contributions are welcome — feel free to open a PR!
-
-> [!TIP]
-> To **develop new functions** or **fix a bug**, fork the repository, open a pull request.
+> [!Note] 
+> Contributions are welcome! To develop new features or fix bugs, please fork the repository and open a pull request.
 
 For more details, please refer to [the documentation](https://kreate.knighthat.me/dev/getting_started).
 

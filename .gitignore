@@ -30,3 +30,7 @@
 /YT python/
 /.kotlin/
 
+### Keystore
+*.keystore
+*.jks
+Kreate/my-release-key.keystore
